@@ -4,11 +4,11 @@
   "description": "Flagsmith integration for React Single Page Applications (SPA)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheMagoo73/flagsmith-react.git"
+    "url": "git+https://github.com/hamedkh29/flagsmith-react/flagsmith-react.git"
   },
-  "homepage": "https://github.com/TheMagoo73/flagsmith-react",
+  "homepage": "https://github.com/hamedkh29/flagsmith-react",
   "bugs": {
-    "url": "https://github.com/TheMagoo73/flagsmith-react/issues"
+    "url": "https://github.com/hamedkh29/flagsmith-react/issues"
   },
   "engines": {
     "npm": ">7.0.0"
